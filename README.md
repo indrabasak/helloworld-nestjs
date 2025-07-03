@@ -1,7 +1,8 @@
 HelloWorld NestJS
 =====================
 
-A simple NestJS application demonstrating RESTful API development with TypeScript. This project implements a basic book management system with CRUD operations, input validation, and logging middleware.
+A sample NestJS application demonstrating RESTful API development with TypeScript. This project implements a 
+basic book management system with CRUD operations, input validation, and logging middleware.
 
 ## 🚀 Features
 
@@ -27,10 +28,9 @@ cd helloworld-nestjs
 yarn install
 ```
 
-### Build and Run
+### Build
 ```bash
 yarn build
-yarn start
 ```
 
 ## 🏃 Running the Application
