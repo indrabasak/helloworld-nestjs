@@ -11,7 +11,7 @@
     "lint:fix": "./node_modules/.bin/eslint src/**/*.ts --fix"
   },
   "author": "Indra Basak",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "@nestjs/common": "^11.1.3",
     "@nestjs/core": "^11.1.3",
